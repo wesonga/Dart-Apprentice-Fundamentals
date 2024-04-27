@@ -14,4 +14,22 @@ void main() {
 
   const averageAge = (age1 + age2) / 2;
   print(averageAge);
+
+  //Challenge 1
+  const attendace = 0.2;
+  const homework = 0.3;
+  const exam = 0.5;
+
+  const studentAttendace = 90 * attendace;
+  const studentHomework = 80 * homework;
+  const studentExam = 94 * exam;
+
+  const rawGrade = studentAttendace + studentHomework + studentExam;
+  final intGrade = rawGrade.toInt();
+  print(intGrade);
+
+  // Challenge 2
+  const value = 10 / 2;
+  print(value);
+  print(value.runtimeType);
 }
