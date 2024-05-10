@@ -16,7 +16,7 @@ void main() {
   const firstName = 'Bob';
   const lastName = 'Wesonga';
 
-  const fullName = firstName + ' ' + lastName;
+  const fullName = '$firstName $lastName';
   const myDetails = 'Hello my name is $fullName.';
   print(myDetails);
 
