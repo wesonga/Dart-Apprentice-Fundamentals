@@ -15,7 +15,7 @@ Welcome to the repository for my solutions to the challenges and exercises from 
 
 ## About the Book
 
-**"Dart Apprentice Fundamentals"** is a comprehensive guide to learning the Dart programming language. The book is designed to help beginners and intermediate programmers master Dart, covering its syntax, features, and applications through a series of practical exercises and challenges.
+**"Dart Apprentice Fundamentals"**(https://www.kodeco.com/books/dart-apprentice-fundamentals) is a comprehensive guide to learning the Dart programming language. The book is designed to help beginners and intermediate programmers master Dart, covering its syntax, features, and applications through a series of practical exercises and challenges.
 
 ## About Dart
 
