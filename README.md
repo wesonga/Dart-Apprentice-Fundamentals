@@ -55,9 +55,10 @@ To run the Dart programs in this repository, you need to have Dart installed on 
 
 ## Usage
 To run the solutions for a particular chapter, navigate to the bin directory of the respective chapter's Dart project and use the dart command followed by challenge.dart. For example, to run the solutions for Chapter 2, use:
-
-cd 02-Expressions-Variables-and-Constants/challenge/bin
-dart challenge.dart
+   ```sh
+   cd 02-Expressions-Variables-and-Constants/challenge/bin
+   dart challenge.dart
+```
 
 ## Contributing
 Contributions are welcome! If you have any improvements or additional solutions, feel free to fork the repository and create a pull request. Please ensure your contributions adhere to the following guidelines:
