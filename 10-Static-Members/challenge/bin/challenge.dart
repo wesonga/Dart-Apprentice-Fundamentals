@@ -1,3 +1,11 @@
+/*
+Challenge 1: Bert and Ernie
+Create a Student class with final firstName and lastName string properties and a variable
+grade as an int property. Add a constructor to the class that initializes all the properties.
+Add a method to the class that nicely formats a Student for printing. Use the class to create
+students bert and ernie with grades of 95 and 85, respectively.
+*/
+
 class Sphere {
   const Sphere({required int radius}) : _radius = radius;
 
