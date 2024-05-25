@@ -25,7 +25,7 @@ Dart is a client-optimized language for fast apps on any platform. It is develop
 
 The repository is organized into chapters corresponding to the book, with each chapter containing a Dart project that includes solutions to the exercises and challenges.
 
-```plaintext
+```
 .
 ├── Chapter_01
 │   ├── challenge
@@ -36,6 +36,7 @@ The repository is organized into chapters corresponding to the book, with each c
 │   │   └── bin
 │   │       └── challenge.dart
 └── ...
+```
 
 
 ### Directory and File Naming Conventions
