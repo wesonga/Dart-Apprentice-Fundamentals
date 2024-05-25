@@ -1,9 +1,9 @@
 /*
-Challenge 1: Bert and Ernie
-Create a Student class with final firstName and lastName string properties and a variable
-grade as an int property. Add a constructor to the class that initializes all the properties.
-Add a method to the class that nicely formats a Student for printing. Use the class to create
-students bert and ernie with grades of 95 and 85, respectively.
+Challenge 1: Spheres
+Create a Sphere class with a const constructor that takes a radius as a named parameter.
+Add getters for the volume and surface area but none for the radius. Don’t use the
+dart:math package but store your version of pi as a static constant. Use your class to find
+the volume and surface area of a sphere with a radius of 12 .
 */
 
 class Sphere {
